@@ -21,7 +21,7 @@ python starrify.py -t [SPOTIFY_TRACK_URI] -u [SPOTIFY_USERNAME] -p [SPOTIFY_PASS
 
 # TODO
 
-* Use in conjunction with the Spotify AppleScript dictionary to grab what's currently playing, and star it using an [Alfred](http://www.alfredapp.com/) keyboard shortcut.
+* <del>Use in conjunction with the Spotify AppleScript dictionary to grab what's currently playing, and star it using an [Alfred](http://www.alfredapp.com/) keyboard shortcut.</del>
 
 # Contact
 
