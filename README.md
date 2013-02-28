@@ -16,7 +16,7 @@ Create a [libspotify API key](http://dev.spotify.com/technologies/libspotify/key
 # Usage
 
 ```bash
-python starrify.py -t [SPOTIFY_TRACK_URI] -u [SPOTIFY_USERNAME] -p [SPOTIFY_USER_NAME]
+python starrify.py -t [SPOTIFY_TRACK_URI] -u [SPOTIFY_USERNAME] -p [SPOTIFY_PASSWORD]
 ```
 
 # TODO
